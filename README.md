@@ -65,7 +65,15 @@
 ```autoit
 If StringInStr($str1[$u],'"') And StringInStr($str1[$u],'WAN') Then
 ```
+## ☕ Поддержать проект / Support
 
+Если этот скрипт спас ваше время, нервы или помог решить проблему на проекте, вы можете поддержать автора:
+
+* **USDT (TRC20):** `TBAZL1ZgfJfgKTLrheb2oxzMM19NvaZWyy`
+* **BTC (Bitcoin):** `1LZWfcbUNGmP51BqNDRUN2VU4aiCCAuLL9`
+* **BNB / BEP20:** `0x5fa1a9fd0c89067ace7abbdbc4ac6778f589e152`
+
+*Спасибо за вашу поддержку!*
 
 
 ## 📜 Лицензия
